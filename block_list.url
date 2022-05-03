@@ -6,9 +6,9 @@
 ! Expires:301 days (update frequency)
 !-----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
-visitsviolatedifficult.com
-passwordslayoutvest.com
-saunasupposedly.com
-qualitydestructionhouse.com
-visitsviolatedifficult.com
-stackpath.bootstrapcdn.com
+||visitsviolatedifficult.com
+||passwordslayoutvest.com
+||saunasupposedly.com
+||qualitydestructionhouse.com
+||visitsviolatedifficult.com
+||stackpath.bootstrapcdn.com
