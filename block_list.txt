@@ -1,11 +1,8 @@
 [Adblock Plus 2.0]
-! 
 ! Version: 202205031415
 ! Title: My list
 ! Last modified: 03 May 2022 14:15 UTC
 ! Expires:301 days (update frequency)
-!-----------------------General advert blocking filters-----------------------!
-! *** easylist:easylist/easylist_general_block.txt ***
 visitsviolatedifficult.com
 passwordslayoutvest.com
 saunasupposedly.com
