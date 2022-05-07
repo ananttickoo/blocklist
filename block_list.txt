@@ -13,3 +13,4 @@ stackpath.bootstrapcdn.com
 sinewedretore.casa
 cdn.onesignal.com
 sportrookier.com
+onesignal.com
