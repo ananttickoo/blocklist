@@ -14,3 +14,6 @@
 ||cdn.onesignal.com
 ||sportrookier.com
 ||onesignal.com
+||jdu-news1.club
+||gstatic.com
+||counter.yadro.ru
