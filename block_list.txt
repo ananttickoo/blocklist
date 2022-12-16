@@ -25,3 +25,4 @@
 ||buy.tinypass.com
 ||giroxxha.com
 ||qt.petwoodfustet.com
+||petwoodfustet.com
