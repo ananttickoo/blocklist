@@ -27,3 +27,7 @@
 ||qt.petwoodfustet.com
 ||petwoodfustet.com
 ||safeattributeexcept.com
+||ekr.zdassets.com
+||zdassets.com
+||*.jsdelivr.net
+||cdn.jsdelivr.net
