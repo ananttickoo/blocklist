@@ -31,3 +31,5 @@
 ||zdassets.com
 ||*.jsdelivr.net
 ||cdn.jsdelivr.net
+||use.fontawesome.com
+||maxcdn.bootstrapcdn.com
