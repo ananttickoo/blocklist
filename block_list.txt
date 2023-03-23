@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 202205031415
-! Title: My list
+! Title: Ad Block Anant
 ! Last modified: 03 Aug 2022 14:15 UTC
 ! Expires:301 days (update frequency)
 ||visitsviolatedifficult.com
