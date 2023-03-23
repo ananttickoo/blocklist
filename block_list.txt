@@ -36,3 +36,9 @@
 ||arbkeutjopwbk.com
 ||disturbcesti.digital
 ||andriasmaximus.com
+||disqus.com
+||c.disquscdn.com
+||*.disquscdn.com
+||realtime.services.disqus.com
+||*disqus.com
+
