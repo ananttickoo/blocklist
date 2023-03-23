@@ -41,4 +41,5 @@
 ||*.disquscdn.com
 ||realtime.services.disqus.com
 ||*disqus.com
+||tripotbespit.digital
 
