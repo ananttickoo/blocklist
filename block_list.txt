@@ -34,4 +34,5 @@
 ||use.fontawesome.com
 ||maxcdn.bootstrapcdn.com
 ||arbkeutjopwbk.com
+||disturbcesti.digital
 ||andriasmaximus.com
