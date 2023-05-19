@@ -45,3 +45,10 @@
 ||realtime.services.disqus.com^
 ||disqus.com^
 ||tripotbespit.digital^
+||a.realsrv.com^
+||tartanaanvils.com^
+||bootstrapcdn.com
+||histats.com
+||disqus.com
+||googletagmanager.com
+
