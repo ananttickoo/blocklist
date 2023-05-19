@@ -1,0 +1,8 @@
+! Title: anant - Blocklist
+! Expires: 1 day
+! Issue tracker: blcoklist
+! Homepage: blocklist
+! Description: Blocks my list
+! Version: 20220723
+
+||statistiek.rijksoverheid.nl^
