@@ -32,7 +32,7 @@
 ||safeattributeexcept.com^
 ||ekr.zdassets.com^
 ||zdassets.com^
-||^jsdelivr.net^
+||jsdelivr.net^
 ||cdn.jsdelivr.net^
 ||use.fontawesome.com^
 ||maxcdn.bootstrapcdn.com^
@@ -41,7 +41,7 @@
 ||andriasmaximus.com^
 ||disqus.com^
 ||c.disquscdn.com^
-||^disquscdn.com^
+||disquscdn.com^
 ||realtime.services.disqus.com^
-||^disqus.com^
+||disqus.com^
 ||tripotbespit.digital^
