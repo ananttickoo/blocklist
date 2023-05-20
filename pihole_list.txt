@@ -18,7 +18,7 @@
 ||sportrookier.com^
 ||onesignal.com^
 ||jdu-news1.club^
-||gstatic.com^
+#||gstatic.com^
 ||counter.yadro.ru^
 ||chargerbeakers.com^
 ||soogandrooped.cam^
