@@ -43,3 +43,6 @@
 ||*disqus.com
 ||tripotbespit.digital
 ||*.slapclergymoth.com
+||slapclergymoth.com
+||*.pursuitcharlesbaker.com
+||pursuitcharlesbaker.com
