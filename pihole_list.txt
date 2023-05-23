@@ -51,4 +51,5 @@
 ||histats.com^
 ||disqus.com^
 ||googletagmanager.com^
+||slapclergymoth.com^
 
