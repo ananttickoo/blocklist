@@ -52,4 +52,5 @@
 ||disqus.com^
 ||googletagmanager.com^
 ||slapclergymoth.com^
+||pursuitcharlesbaker.com^
 
