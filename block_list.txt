@@ -46,3 +46,7 @@
 ||slapclergymoth.com
 ||*.pursuitcharlesbaker.com
 ||pursuitcharlesbaker.com
+||kiksajex.com
+||hoogajee.net
+||*.kiksajex.com
+||*.hoogajee.net
