@@ -53,3 +53,7 @@
 ||*.trdwvyjj.xyz
 ||trdwvyjj.xyz
 ||astauche.xyz
+||2embed.me^
+||neves.jeffycontent.com
+||ssl.p.jwpcdn.com
+||ssl.p.jwpcdn.com
