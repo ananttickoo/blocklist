@@ -59,5 +59,6 @@
 ||neves.jeffycontent.com^
 ||ssl.p.jwpcdn.com^
 ||ssl.p.jwpcdn.com^
-||bt.bekisspolars.click^
+||bekisspolars.click^
+||horsiergrassed.com^
 
